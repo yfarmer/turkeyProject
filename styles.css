@@ -1,0 +1,17 @@
+
+h1 {
+  color: black;
+}
+h2 {
+  color: tan;
+}
+h3 {
+  color: black;
+}
+.content{
+  border:3px solid yellow;
+  width: 40vw;
+  height: 90vh;
+  text-align: center;
+  margin: auto;
+}
